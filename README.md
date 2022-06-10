@@ -4,3 +4,6 @@
 + casio ap 21
 + colombia EP 345
 + 
+# Frequency
+- 432 Hz
+- 
